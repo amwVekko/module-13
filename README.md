@@ -39,5 +39,32 @@ Accepting User Input
 
 --------------------------------------------------
 
+Conditionals (if / else) and Boolean Data Type
+1. created if_else.py
+
+--------------------------------------------------
+
+Error Handling with Try-Except
+1. created try-except.py
+
+--------------------------------------------------
+
+While Loops
+1. created while.py
+
+--------------------------------------------------
+
+Lists and For Loops
+1. created lists_and_for_loops.py
+2. created lists.py
+
+--------------------------------------------------
+
+Comments
+1. created comments.py
+
+--------------------------------------------------
+
+
 
 Reference: DevOps Bootcamp and TWN
