@@ -65,6 +65,22 @@ Comments
 
 --------------------------------------------------
 
+Sets
+1. created sets.py
+2. created sets_2.py
+
+--------------------------------------------------
+
+Built-in functions
+1. created builtin_functions.py
+
+--------------------------------------------------
+
+Dictionary Data Type
+1. created builtin_functions.py
+
+--------------------------------------------------
+
 
 
 Reference: DevOps Bootcamp and TWN
