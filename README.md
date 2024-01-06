@@ -81,6 +81,14 @@ Dictionary Data Type
 
 --------------------------------------------------
 
+Modules
+1. created modules folder
+2. created main.py in modules folder
+3. created helper.py in modules folder
+4. cleaned up code and moved it to helper.py
+
+--------------------------------------------------
+
 
 
 Reference: DevOps Bootcamp and TWN
