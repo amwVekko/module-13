@@ -94,6 +94,21 @@ Project: Countdown App
 
 --------------------------------------------------
 
+Project: Automation with Python (Spreadsheet)
+1. created spreadsheet folder
+2. downloaded inventory.xlsx
+3. installed module openpyxl and set correct interpreter in visual studio code
+
+--------------------------------------------------
+
+Classes and Objects
+1. created classes_objects folder
+2. created user.py
+3. created main.py
+4. created post.py
+
+--------------------------------------------------
+
 
 
 Reference: DevOps Bootcamp and TWN
