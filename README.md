@@ -109,6 +109,11 @@ Classes and Objects
 
 --------------------------------------------------
 
+Project: API Request to GitLab
+1. created api_request.py
+
+--------------------------------------------------
+
 
 
 Reference: DevOps Bootcamp and TWN
